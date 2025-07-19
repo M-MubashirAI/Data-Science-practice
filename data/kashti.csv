@@ -13,7 +13,7 @@
 11,1,1,female,58.0,0,0,26.55,S,First,woman,False,C,Southampton,yes,True
 12,0,3,male,20.0,0,0,8.05,S,Third,man,True,,Southampton,no,True
 13,0,3,male,39.0,1,5,31.275,S,Third,man,True,,Southampton,no,False
-14,0,3,female,14.0,0,0,7.8542,S,Third,child,False,,Southampton,no,True
+14,0,3,female,14.0,0,0,7.8542,S,Third,childd,False,,Southampton,no,True
 15,1,2,female,55.0,0,0,16.0,S,Second,woman,False,,Southampton,yes,True
 16,0,3,male,2.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False
 17,1,2,male,,0,0,13.0,S,Second,man,True,,Southampton,yes,True
